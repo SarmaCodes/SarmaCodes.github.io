@@ -101,7 +101,7 @@
 
     <div class="container">
         <header>
-            <h1>Chimp Champ</h1>
+            <h1>Chimp Champ!</h1>
             <h2>Inspired by the Genius of  <a href="https://en.wikipedia.org/wiki/Ayumu_(chimpanzee)">Ayumu!</a></h2>
         </header>
 
